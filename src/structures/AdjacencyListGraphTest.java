@@ -1,3 +1,5 @@
+package structures;
+
 import org.junit.jupiter.api.BeforeEach;
 
 class AdjacencyListGraphTest {

@@ -1,3 +1,5 @@
+package structures;
+
 public class Edge<T> {
     private final Vertex<T> source;
     private final Vertex<T> destination;

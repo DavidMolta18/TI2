@@ -1,3 +1,5 @@
+package structures;
+
 import java.util.*;
 
 public class AdjacencyListGraph<T> implements Graf<T> {
